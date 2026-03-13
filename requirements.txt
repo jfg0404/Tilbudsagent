@@ -1,0 +1,1 @@
+Flask==2.0.1\nrequests==2.25.1\npython-dotenv==0.15.0\nsqlalchemy==1.4.22\n
