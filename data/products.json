@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Ryobi RY150PWA - Homeshop",
+    "product_group": "RYOBI_RY150PWA",
+    "store": "Homeshop",
+    "url": "https://www.homeshop.dk/ryobi-230v-maskiner/ryobi-hjtryksrenser--rpw150xrb?utm_source=pricerunner&utm_medium=cpc&utm_campaign=pricerunner",
+    "target_price": 1600,
+    "currency": "DKK",
+    "active": true,
+    "price_selector": null
+  },
+  {
+    "name": "Ryobi RY150PWA - Bauhaus",
+    "product_group": "RYOBI_RY150PWA",
+    "store": "Bauhaus",
+    "url": "https://www.bauhaus.dk/ryobi-hoejtryksrenser-ry150pwa-150-bar?utm_source=pricerunner&utm_medium=cpc&utm_campaign=pricerunner",
+    "target_price": 1600,
+    "currency": "DKK",
+    "active": true,
+    "price_selector": null
+  },
+  {
+    "name": "Eton Four-Way Stretch White - Care of Carl",
+    "product_group": "ETON_FOUR_WAY_STRETCH_WHITE",
+    "store": "Care of Carl",
+    "url": "https://www.careofcarl.dk/dk/eton-slim-fit-four-way-stretch-shirt-white?channable=0058b8696400323432393735313510&utm_content=&utm_term=&utm_source=pricerunner&utm_medium=cpc&utm_campaign=pricerunner",
+    "target_price": 999,
+    "currency": "DKK",
+    "active": true,
+    "price_selector": null
+  },
+  {
+    "name": "Eton Light Blue Four-Way Stretch - Magasin 1",
+    "product_group": "ETON_FOUR_WAY_STRETCH_LIGHT_BLUE",
+    "store": "Magasin",
+    "url": "https://www.magasin.dk/light-blue-four-way-stretch-shirt---slim-fit/S11989278.html",
+    "target_price": 999,
+    "currency": "DKK",
+    "active": true,
+    "price_selector": null
+  },
+  {
+    "name": "Eton Light Blue Four-Way Stretch - Magasin 2",
+    "product_group": "ETON_FOUR_WAY_STRETCH_LIGHT_BLUE",
+    "store": "Magasin",
+    "url": "https://www.magasin.dk/light-blue-four-way-stretch-shirt---slim-fit/S11989254.html",
+    "target_price": 999,
+    "currency": "DKK",
+    "active": true,
+    "price_selector": null
+  }
+]
