@@ -1,0 +1,1 @@
+{"product": "monitoring", "version": "1.0", "settings": {"alertThreshold": 10, "checkInterval": "5m"}}
